@@ -1,0 +1,16 @@
+{
+  "name": "DataBinding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openui5/sap.ui.core": "^1.68.1",
+    "@openui5/themelib_sap_belize": "^1.68.1"
+  }
+}
